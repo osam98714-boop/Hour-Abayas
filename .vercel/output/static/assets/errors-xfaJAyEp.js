@@ -1,0 +1,1 @@
+function e(e){return e instanceof Error&&e.message?e.message:`حدث خطأ غير متوقع`}export{e as t};

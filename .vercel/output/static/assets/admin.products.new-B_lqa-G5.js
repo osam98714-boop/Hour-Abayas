@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-CnG7R4es.js";import{t}from"./product-form-DFvzf1Cy.js";var n=e();function r(){return(0,n.jsxs)(`div`,{children:[(0,n.jsx)(`h1`,{className:`mb-4 text-3xl font-extrabold`,children:`منتج جديد`}),(0,n.jsx)(t,{})]})}export{r as component};

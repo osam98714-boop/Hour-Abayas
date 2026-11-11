@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-CnG7R4es.js";import{i as t}from"./index-DDsw3Ay2.js";import{t as n}from"./catalog-page-DZ1O_mmh.js";var r=e();function i(){let e=t.useLoaderData();return(0,r.jsx)(n,{kicker:`مجموعة النساء`,title:`عبايات النساء`,intro:`تصاميم تُصنع للمرأة، والمقاس الذي تختارينه يُظهر فقط ما هو متوفر في المخزون.`,items:e})}export{i as component};

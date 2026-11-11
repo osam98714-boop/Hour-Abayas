@@ -1,0 +1,1 @@
+function e(e){return`${new Intl.NumberFormat(`en-US`).format(e)} ر.س`}export{e as t};
